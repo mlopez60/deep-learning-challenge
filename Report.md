@@ -1,5 +1,3 @@
-# deep-learning-challenge
-
 ## Overview
 * The purpose of this project was to predict whether applicants will be successful if they are fuded by Alphabet soup. This machine learning would be a tool used by Alphabet soup to pick the best candidates for funding.
 ## Results
