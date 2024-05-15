@@ -56,5 +56,7 @@ Model 4:
 
 
 ## Summary
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+
 * To summarize, all 4 models failed to hit the target goal of .7500 accuracy with the closest being Model 3 at .7261. I believe I should have made some harsher changes to the later models such as changing activation methods and playing more with the hidden layers. My recommendation would be to change activation methods and maybe try some different learning models to see the impact
+
+* Another model to try for this could be K-Means Clustering as this would allow us to create groups that are similar to each other. As this excerise was to determine which is most likely to succeed, this could be useful in grouping based on the different variables vs success.
